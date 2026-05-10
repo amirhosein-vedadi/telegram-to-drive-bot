@@ -2,7 +2,7 @@
 
 A lightweight Telegram bot that receives files from you on Telegram and automatically saves them to your Google Drive folder.
 
-[![Run on Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/colab_notebook.ipynb)
+[![Run on Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amirhosein-vedadi/telegram-to-drive-bot/blob/main/colab_notebook.ipynb)
 
 ## How it works
 
